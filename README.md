@@ -24,8 +24,8 @@
 
 <div align="left" >
   <a href="https://github.com/Welton228/Welton228/">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Welton228&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton228&layout=compact&langs_count=7&theme=highcontrast"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Welton228&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
+  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton228&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
 ![Snake animation](https://github.com/Welton228/Welton228/blob/output/github-contribution-grid-snake.svg)
