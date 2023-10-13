@@ -25,7 +25,7 @@
 <div align="left" >
   
   <a href="https://github.com/Welton228/Welton228/">
-  <img src="https://github-readme-stats.vercel.app/api?username=Welton228&show_icons=true&hide=stars,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Welton228 GitHub stats &theme=chartreuse-dark" /></a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Welton228&show_icons=true&hide=stars,&count_private=true&hide_border=true&show_icons=true" alt="Welton228 GitHub stats &theme=chartreuse-dark" /></a>
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton228&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
