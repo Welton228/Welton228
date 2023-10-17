@@ -29,6 +29,8 @@
 
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton228&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
+<div>
+   ![Snake animation](https://github.com/Welton228/Welton228/blob/output/github-contribution-grid-snake.svg)
+</div>
 
- ![Snake animation](https://github.com/Welton228/Welton228/blob/output/github-contribution-grid-snake.svg)
 
