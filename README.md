@@ -1,4 +1,5 @@
 # Hello, I am Welton Fernandes.
+# Seja bem-vindo para explorar meu repositório no GitHub, onde compartilho meu percurso de aprendizado e evolução na área de desenvolvimento de software.
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Welton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
