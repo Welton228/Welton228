@@ -1,6 +1,7 @@
 # Fala Dev, Eu sou Welton Fernandes DEV Front End.
 # Seja bem-vindo para explorar meu repositório no GitHub, onde compartilho meu percurso de aprendizado e evolução na área de desenvolvimento de software.
 
+# 💻 My favorite tools and technologies
 <div style="display: flex; align-items: flex-start; align: center">
     <table align="center">
         <tr>
