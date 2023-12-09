@@ -100,4 +100,8 @@
 
 <p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
 
-<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+<p align="center">
+<a href="https://github.com/Welton228"><img src="https://profile-counter.glitch.me/{Evan-You}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
+</p>
+
+<img src="https://github.com/Welton228/Welton228/raw/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
