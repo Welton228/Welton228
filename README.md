@@ -1,7 +1,7 @@
 # Fala Dev, Eu sou Welton Fernandes DEV Front End.
 # Seja bem-vindo para explorar meu repositório no GitHub, onde compartilho meu percurso de aprendizado e evolução na área de desenvolvimento de software.
 
-<div style="display: inline_block"><br>
+<div align="center"> <br>
   <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="25" /></a>  
 <a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
