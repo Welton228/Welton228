@@ -98,10 +98,6 @@
   <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Welton228&layout=compact&langs_count=7&theme=chartreuse-dark"/>
 </div>
 
-<p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
 
-<p align="center">
-<a href="https://github.com/Welton228"><img src="https://profile-counter.glitch.me/{Evan-You}/count.svg" alt="PrinceGoblinTech :: Visitor's Count" /></a>
-</p>
 
-<img src="https://github.com/Welton228/output/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
+
