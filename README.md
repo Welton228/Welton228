@@ -99,3 +99,5 @@
 </div>
 
 <p><img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="" /></a></p><br><br>
+
+![snake animation](https://github.com/<Welton228>/<Welton228>/blob/output/github-contribution-grid-snake2.svg)
