@@ -72,10 +72,7 @@
   
 </div>
 
-<!-- Animated Gif Here -->
-<p align="center">
-  <img src="C:\Users\User\Downloads\animated.gif" align="center" width="90%" />
-</p>
+
 
 ##
 
