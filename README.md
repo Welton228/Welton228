@@ -74,7 +74,7 @@
 
 <!-- Animated Gif Here -->
 <p align="center">
-  <img src="animated.gif" align="center" width="90%" />
+  <img src="C:\Users\User\Downloads\animated.gif" align="center" width="90%" />
 </p>
 
 ##
