@@ -36,8 +36,8 @@
         </tr>
         <tr>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
-                <br>Nodejs
+                <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+                <br>Vite
             </td>
             </td>
             <td align="center" width="96">
@@ -57,9 +57,9 @@
                     width="48" height="48" alt="Git" />
                 <br>Git
             </td>
-             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
-                <br>Vite
+            <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nodejs" width="48" height="48" alt="Nodejs" />
+                <br>Nodejs
             </td>
              <td align="center" width="96">
                 <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
