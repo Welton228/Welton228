@@ -41,7 +41,7 @@
                 <br>VsCode
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Sass" />
+                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Tailwind" />
                 <br>Tailwind
             </td>
             <td align="center" width="96">
@@ -58,8 +58,12 @@
                 <br>Git
             </td>
              <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="PostgreSQL" />
-                <br>PostgreSQL
+                <img src="https://skillicons.dev/icons?i=vite" width="48" height="48" alt="Vite" />
+                <br>Vite
+            </td>
+             <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java" />
+                <br>Java
             </td>
         </tr>
     </table>
