@@ -41,7 +41,7 @@
                 <br>VsCode
             </td>
             <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=sass" width="48" height="48" alt="Sass" />
+                <img src="https://skillicons.dev/icons?i=tailwind" width="48" height="48" alt="Sass" />
                 <br>Sass
             </td>
             <td align="center" width="96">
