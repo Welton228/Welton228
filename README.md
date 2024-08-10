@@ -1,5 +1,5 @@
-# Fala Dev, Eu sou Welton Fernandes DEV Front End.
-# Seja bem-vindo para explorar meu repositório no GitHub, onde compartilho meu percurso de aprendizado e evolução na área de desenvolvimento de software.
+# Hiii Dev, I’m Welton Fernandes Front end developer.
+# Welcome to explore my repository on GitHub, where I share my learning and evolution path in the area of software development.
 
 # 💻 Skills
 <div style="display: flex; align-items: flex-start; align: center">
