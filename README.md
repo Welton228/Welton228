@@ -70,8 +70,8 @@
                 <br>Next.js
             </td>
         <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="Saas" />
-                <br>SaaS
+                <img src="https://skillicons.dev/icons?i=mongodb" width="48" height="48" alt="MongoDB" />
+                <br>MongoDB
             </td>
         </tr>
     </table>
