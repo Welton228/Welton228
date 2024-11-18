@@ -70,7 +70,7 @@
                 <br>Next.js
             </td>
         <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=saas" width="48" height="48" alt="Saas" />
+                <img src="https://skillicons.dev/icons?i=sas" width="48" height="48" alt="Saas" />
                 <br>SaaS
             </td>
         </tr>
