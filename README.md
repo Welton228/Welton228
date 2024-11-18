@@ -66,7 +66,7 @@
                 <br>Java
             </td>
          <td align="center" width="96">
-                <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Nextjs" />
+                <img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Next" />
                 <br>Java
             </td>
         </tr>
