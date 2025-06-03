@@ -29,9 +29,10 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/redux-icon.svg" title="Redux" alt="Redux" width="55" height="55" />
     </td>
-    <td align="center" width="90">
-      <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="Next.js" width="45" height="55"/>
-    </td>
+    <td align="center" width="96">
+                <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Nextjs" />
+                <br>Next.js
+            </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" title="Three.js" alt="Three.js" width="45" height="55" />
     </td>
