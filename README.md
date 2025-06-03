@@ -76,8 +76,6 @@
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/restapi-icon.svg" title="RESTful API" alt="RESTful API" width="55" height="55" />
     </td>
-  </tr>
-  <tr height="80">
     <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/189716855-2c69ca7a-5149-4647-936d-780610911353.png" title="Firebase" alt="Firebase" width="55" height="55" />
     </td>
