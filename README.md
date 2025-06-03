@@ -10,7 +10,6 @@
 - 💬 Ask me about anything, I'll be happy to help.
 - 🤝 Love to make new connections.
 
-### 💘 Highlights 💘
 
 <p align="left">
   <img src="artificial-intelligence.gif" alt="Artificial Intelligence" title="Artificial Intelligence" width="75" height="75" />
@@ -32,15 +31,6 @@
     </td>
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" title="Next.js" alt="Next.js" width="45" height="55"/>
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/gatsby-icon.svg" title="Gatsby" alt="Gatsby" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/color/2x/vue-js.png" title="Vue" alt="Vue" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://img.icons8.com/color/2x/angularjs.png" title="Angular" alt="Angular" width="55" height="55" />
     </td>
     <td align="center" width="90">
       <img src="https://skillicons.dev/icons?i=threejs" title="Three.js" alt="Three.js" width="45" height="55" />
