@@ -60,9 +60,6 @@
       <img src="https://img.icons8.com/color/2x/css3.png" title="CSS" alt="css" width="55" height="55" />
     </td>
     <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/sass-icon.svg" title="Sass" alt="Sass" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
       <img src="https://user-images.githubusercontent.com/25181517/183898054-b3d693d4-dafb-4808-a509-bab54cf5de34.png" title="Bootstrap" alt="Bootstrap" width="55" height="55" />
     </td>
     <td align="center" width="90">
@@ -71,23 +68,8 @@
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/material-ui-1.svg" title="Material UI" alt="Material UI" width="48" height="55" />
     </td>
-    <td align="center" width="90">
-      <img src="https://user-images.githubusercontent.com/25181517/192158957-b1256181-356c-46a3-beb9-487af08a6266.png" title="WordPress" alt="WordPress" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://github.com/marwin1991/profile-technology-icons/assets/25181517/afcf1c98-544e-41fb-bf44-edba5e62809a" title="Laravel" alt="Laravel" width="55" height="55" />
-    </td>
   </tr>
   <tr height="80">
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/python-icon.svg" title="Python" alt="Python" width="48" height="55" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/django-icon.svg" title="Django" alt="Django" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" alt="FastAPI" width="45" height="55" />
-    </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/color/2x/tensorflow.png" title="TensorFlow" alt="TensorFlow" width="55" height="55" />
     </td>
