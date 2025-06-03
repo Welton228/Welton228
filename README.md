@@ -4,9 +4,8 @@
 
 <img align="right" alt="GIF" src="main.gif" width="400" height="300" />
 
-- 🚀 I’m a Senior Full Stack Software Engineer.
+- 🚀 I’m a Full Stack Developer.
 - 💪 I have a rich background in web development.
-- 🌱 I’m currently diving into AI & ML.
 - 📢 Love to learn & share with the community.
 - 💬 Ask me about anything, I'll be happy to help.
 - 🤝 Love to make new connections.
