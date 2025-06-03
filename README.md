@@ -45,6 +45,8 @@
     <td align="center" width="90">
       <img src="https://cdn.worldvectorlogo.com/logos/nestjs.svg" title="Nest.js" alt="Nest.js" width="55" height="55" />
     </td>
+  </tr>
+  <tr height="80">
     <td align="center" width="90">
       <img src="https://techstack-generator.vercel.app/js-icon.svg" title="JavaScript" alt="JavaScript" width="55" height="55" />
     </td>
@@ -87,9 +89,6 @@
     </td>
     <td align="center" width="90">
       <img src="https://cdn.iconscout.com/icon/free/png-128/mongodb-4-1175139.png" title="MongoDB" alt="MongoDB" width="55" height="55" />
-    </td>
-    <td align="center" width="90">
-      <img src="https://techstack-generator.vercel.app/mysql-icon.svg" title="MySQL" alt="MySQL" width="55" height="55" />
     </td>
     <td align="center" width="90">
       <img src="https://img.icons8.com/color/2x/postgreesql.png" title="PostgreSQL" alt="PostgreSQL" width="55" height="55" />
