@@ -2,7 +2,7 @@
 
 # <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About Me
 
-<img align="right" alt="GIF" src="main.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="iron man home GIF.gif" width="400" height="300" />
 
 - 🚀 I’m a Full Stack Developer.
 - 💪 I have a rich background in web development.
@@ -13,7 +13,7 @@
 
 <p align="left">
   <img src="artificial-intelligence.gif" alt="Artificial Intelligence" title="Artificial Intelligence" width="75" height="75" />
-  <img src="iron man home GIF.gif" alt="Leadership" title="Leadership" width="75" height="75"/>
+  <img src="leadership.gif" alt="Leadership" title="Leadership" width="75" height="75"/>
 </p>
 
 ![](https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Development;Web,%20Mobile%20Development;UX/UI%20Engineering;AI/ML%20Engineering;I%20Love%20Coding;Back-End%20Engineering;Front-End%20Engineering;Professional%20Teamwork%20Experience;Always%20Learning%20New%20Techs&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45%22)
