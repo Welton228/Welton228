@@ -2,7 +2,7 @@
 
 # <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About Me
 
-<img align="right" alt="GIF" src="iron man home GIF.gif" width="400" height="300" />
+<img align="right" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
 
 - 🚀 I’m a Full Stack Developer.
 - 💪 I have a rich background in web development.
