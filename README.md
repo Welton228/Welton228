@@ -2,7 +2,7 @@
 
 # <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About Me
 
-<img align="right" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
+<img align="down" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
 
 🚀 Full Stack Developer focused on the JavaScript/TypeScript ecosystem (Next.js, React, Node.js).
 💼 I bring 5 years of experience in logistics and administration, which gave me a sharp vision for processes, problem solving and business rules.
