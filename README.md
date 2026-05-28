@@ -20,7 +20,7 @@ Atualmente, meu foco está na criação de aplicações web escaláveis e segura
 <div align="center">
   <img alt="GIF Animado" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" />
 </div>
-
+https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG1pZXNiMXllY2dqNTB1cmdyaG11ZXpzaGh6OHM1Yjl6a3BieDduZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif
 
 <p align="left">
   <img src="artificial-intelligence.gif" alt="Artificial Intelligence" title="Artificial Intelligence" width="75" height="75" />
