@@ -2,11 +2,13 @@
 
 # <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About Me
 
-<img align="down" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
+
 
 🚀 Full Stack Developer focused on the JavaScript/TypeScript ecosystem (Next.js, React, Node.js).
 💼 I bring 5 years of experience in logistics and administration, which gave me a sharp vision for processes, problem solving and business rules.
 💻 Currently focused on building scalable and secure applications (Check out the Nexus Task project below!).
+
+<img align="left" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
 
 
 <p align="left">
