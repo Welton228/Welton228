@@ -1,12 +1,19 @@
-<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px"> Hi, I am a Full Stack Developer</h1>
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px" height="32px">Oi, eu sou o Welton</h1>
 
 # <img src="github-logo.gif" alt="GitHub Logo" width="30" height="30" /> About Me
 
-🚀 Full Stack Developer focused on the JavaScript/TypeScript ecosystem (Next.js, React, Node.js).
-💼 I bring 5 years of experience in logistics and administration, which gave me a sharp vision for processes, problem solving and business rules.
-💻 Currently focused on building scalable and secure applications (Check out the Nexus Task project below!).
+Sou um Desenvolvedor Full Stack apaixonado por resolver problemas reais através do código. 
 
-<img align="left" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
+Minha jornada é um pouco diferente: trago **5 anos de experiência em áreas logísticas e administrativas**, o que me desenvolveu uma visão afiada para análise de processos, organização e regras de negócio. Hoje, aplico toda essa bagagem no desenvolvimento de software.
+
+Atualmente, meu foco está na criação de aplicações web escaláveis e seguras utilizando o ecossistema **JavaScript e TypeScript**.
+
+* 💻 Desenvolvendo projetos com **Next.js, React, Node.js e Prisma ORM**.
+* 🚀 Destaque atual: [Nexus Task] https://boardtarefas.vercel.app/, um sistema completo de gerenciamento de tarefas com fluxo de autenticação segura e proteção de rotas.
+* 🎓 Prestes a iniciar especializações em **Big Data** e **Marketing**.
+* 📫 Como me encontrar: [welton.devv@gmail.com](mailto:welton.devv@gmail.com) ou pelo meu [LinkedIn](https://www.linkedin.com/in/welton-fernandes/).
+
+<img align="down" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
 
 
 <p align="left">
