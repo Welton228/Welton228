@@ -4,11 +4,9 @@
 
 <img align="right" alt="GIF" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" height="300" />
 
-- 🚀 I’m a Full Stack Developer.
-- 💪 I have a rich background in web development.
-- 📢 Love to learn & share with the community.
-- 💬 Ask me about anything, I'll be happy to help.
-- 🤝 Love to make new connections.
+🚀 Full Stack Developer focused on the JavaScript/TypeScript ecosystem (Next.js, React, Node.js).
+💼 I bring 5 years of experience in logistics and administration, which gave me a sharp vision for processes, problem solving and business rules.
+💻 Currently focused on building scalable and secure applications (Check out the Nexus Task project below!).
 
 
 <p align="left">
