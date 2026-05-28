@@ -28,7 +28,7 @@ Atualmente, meu foco está na criação de aplicações web escaláveis e segura
 </p>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Especialista+em+Next.js+e+React;TypeScript,+Node.js+e+Prisma;Foco+em+Resolucao+de+Problemas;Sempre+Aprendendo&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Desenvolvedor+Full+Stack;Foco+em+Next.js+e+React;TypeScript,+Node.js+e+Prisma;Resolucao+de+Problemas;Sempre+Aprendendo&font=Pacifico&center=true&width=650&height=120&color=37b39a&vCenter=true&size=45" alt="Typing Animation" />
 </div>
 
 # <img src="working.gif" width="45" /> My Stack
