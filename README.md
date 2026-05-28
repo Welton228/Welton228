@@ -18,7 +18,7 @@ Atualmente, meu foco está na criação de aplicações web escaláveis e segura
 <br>
 
 <div align="center">
-  <img alt="GIF Animado" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="700" />
+  <img alt="GIF Animado" src="Calculate Artificial Intelligence GIF by Pudgy Penguins.gif" width="400" />
 </div>
 
 
